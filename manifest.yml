@@ -4,8 +4,8 @@ declared-services:
     plan: standard
 applications:
 - services:
-  - natural-language-classifier-standard
-  name: natural-language-classifier-demo
+  - Natural Language Classifier-ln
+  name: NL-Oleg
   command: npm start
   path: .
   memory: 512M

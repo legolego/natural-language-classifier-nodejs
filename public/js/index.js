@@ -67,7 +67,7 @@ $(document).ready(function() {
   };
 
   [
-    'Is it hot outside?',
+    'Is it hot outsidee?',
     'What is the expected high for today?',
     'Will it be foggy tomorrow morning?',
     'Should I prepare for sleet?',
